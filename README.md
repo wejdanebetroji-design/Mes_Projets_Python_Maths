@@ -1,0 +1,2 @@
+# Mes_Projets_Python_Maths
+equation_diophantienne
